@@ -1,0 +1,10 @@
+*.exe
+*.pdb
+.idea
+venv
+.vs
+Debug
+Release
+x64
+*.png
+*.docx
